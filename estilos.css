@@ -1,0 +1,23 @@
+h1 {margin: 10px;}
+
+header{;background-image: url(https://scontent.faqp1-1.fna.fbcdn.net/v/t1.0-9/28058902_1855445531196440_8654074240994762051_n.jpg?_nc_cat=103&_nc_ht=scontent.faqp1-1.fna&oh=dd0234e15dda957628f47f813b30eaed&oe=5D5B2862);}  
+
+img {width: 130px; height: 130px; margin: 10px; padding: 10px;}
+p {color: orange; font-family: verdana;}
+h1 {color: black; font-family: algerian; text-align: center; }  
+h2 {color: orange; text-align: center; }
+ *{margin:0;padding:0;font-family: Helvetica, Arial;}
+     html{background-color:"blue";} 
+     a{ box-shadow: 5px 2px 5px #888888 ; border-bottom: 1px solid #ddd;}
+     a{color:black; text-decoration: none; padding: 10px 15px; font-family: Helvetica, Arial; font-weight: 600; font-size: 14px;} 
+     a:hover{color:#0F699B; padding: 8px 15px; } 
+     article { text-align: center; color: black; }
+      body {background-image: url(https://scontent.faqp1-1.fna.fbcdn.net/v/t1.0-9/28058902_1855445531196440_8654074240994762051_n.jpg?_nc_cat=103&_nc_ht=scontent.faqp1-1.fna&oh=dd0234e15dda957628f47f813b30eaed&oe=5D5B2862);}
+      
+  form {text-align: center;}
+  footer {text-align: center; 
+  color: white; 
+    	background: black;
+  	font-size: #f5f5f5;
+  	}
+  li {font-family: franklin gothinc demi;}
